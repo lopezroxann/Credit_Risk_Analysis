@@ -5,40 +5,40 @@ As good loans outweigh risky ones, this demonstrates that credit risk naturally 
 
 ## Results
 
-<b>RandomOverSampler Model</b>
+<b>RandomOverSampler Model</b></br>
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_randomover.png)
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/Random_oversamplerr.png)
-- Balanced Accuracy Score for Random OverSampling is approximately 65% with a precision rate of 99% and recall(sensitivity) of 68%.
+- Balanced Accuracy Score for Random OverSampling is approximately 65% with a precision rate of 99% and recall(sensitivity) of 68%.</br></br>
 
 
-<b>SMOTE Model</b>
+<b>SMOTE Model</b></br>
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_smote.png)
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/SMOTE_oversampler.png)
-- Balanced Accuracy Score for SMOTE is approximately 62% with a precision rate of 99% and recall(sensitivity) of 64%.
+- Balanced Accuracy Score for SMOTE is approximately 62% with a precision rate of 99% and recall(sensitivity) of 64%.</br></br>
 
 
-<b>ClusterCentroids Model</b>
+<b>ClusterCentroids Model</b></br>
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_cluscentt.png)
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroidss_undersamplerr.png)
-- Balanced Accuracy Score for Cluster Centroids is approximately 51% with a precision rate of 99% and recall(sensitivity) of 45%.
+- Balanced Accuracy Score for Cluster Centroids is approximately 51% with a precision rate of 99% and recall(sensitivity) of 45%.</br></br>
 
 
-<b>SMOTEENN Model</b>
+<b>SMOTEENN Model</b></br>
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_smoteenn.png)
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/SMOTEEN_overundersamplerr.png)
-- Balanced Accuracy Score for SMOTEENN is approximately 62% with a precision rate of 99% and recall(sensitivity) of 54%.
+- Balanced Accuracy Score for SMOTEENN is approximately 62% with a precision rate of 99% and recall(sensitivity) of 54%.</br></br>
 
 
-<b>BalancedRandomForest Classifier Model</b>
+<b>BalancedRandomForest Classifier Model</b></br>
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_balranfor.png)
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BalancedRandomForest.png)
-- Balanced Accuracy Score for Balanced Random Forest is approximately 79% with a precision rate of 99% and recall(sensitivity) of 91%.
+- Balanced Accuracy Score for Balanced Random Forest is approximately 79% with a precision rate of 99% and recall(sensitivity) of 91%.</br></br>
 
 
-<b>EasyEnsemble Classifier Model</b>
+<b>EasyEnsemble Classifier Model</b></br>
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_easyens.png)
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleClassifier.png)
-- Balanced Accuracy Score for Easy Ensemble is approximately 92% with a precision rate of 99% and recall(sensitivity) of 94%.
+- Balanced Accuracy Score for Easy Ensemble is approximately 92% with a precision rate of 99% and recall(sensitivity) of 94%.</br></br>
 
 
 ## Summary
