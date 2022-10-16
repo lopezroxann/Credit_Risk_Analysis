@@ -6,21 +6,27 @@ As good loans outweight risky ones, this demonstrates that credit risk naturally
 ## Results
 
 <b>RandomOverSampler Model</b>
-![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/Random_oversampler.png)
+![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_randomover.png)
+![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/Random_oversamplerr.png)
 
 <b>SMOTE Model</b>
+![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_smote.png)
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/SMOTE_oversampler.png)
 
 <b>ClusterCentroids Model</b>
-![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_undersampler.png)
+![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_cluscentt.png)
+![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_undersamplerr.png)
 
 <b>SMOTEENN Model</b>
-![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/SMOTEEN_overundersampler.png)
+![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_smoteenn.png)
+![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/SMOTEEN_overundersamplerr.png)
 
 <b>BalancedRandomForest Classifier Model</b>
+![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_balranfor.png)
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BalancedRandomForest.png)
 
 <b>EasyEnsemble Classifier Model</b>
+![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/BAS_easyens.png)
 ![alt text](https://github.com/lopezroxann/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleClassifier.png)
 
 
